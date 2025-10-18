@@ -1,0 +1,5 @@
+{
+  "name": "AREAS: AI Resume Enhancer",
+  "description": "An AI-driven solution to analyze resumes against job descriptions, calculate an ATS score, and generate enhanced resumes to improve job application success.",
+  "requestFramePermissions": []
+}
